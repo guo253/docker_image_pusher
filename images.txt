@@ -1,1 +1,2 @@
 fishaudio/fish-speech:latest-dev
+dustynv/piper-tts:r35.4.1
